@@ -1,1 +1,1 @@
-saya sedang belajar reset  dan revert
+halaman_utama
